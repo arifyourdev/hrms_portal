@@ -1,0 +1,8 @@
+[24-Aug-2022 08:49:30 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/ajax/book-list.php on line 4
+[24-Aug-2022 12:00:01 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/ajax/book-list.php on line 4
+[24-Aug-2022 12:00:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function picture_path() on bool in /home/fy9dktxencq2/public_html/madhubun.in/ajax/class_book_detail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/fy9dktxencq2/public_html/madhubun.in/ajax/class_book_detail.php on line 32
+[24-Aug-2022 13:34:21 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/ajax/book-list.php on line 4
+[24-Aug-2022 13:35:42 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/ajax/book-list.php on line 4

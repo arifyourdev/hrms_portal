@@ -1,0 +1,44 @@
+ [05-Aug-2022 16:53:04 Asia/Kolkata] PHP Warning:  unlink(../images/album_images/book-1.-1749053828.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/album_detail_delete.php on line 12
+[05-Aug-2022 16:54:21 Asia/Kolkata] PHP Warning:  unlink(../images/album_images/book-2.-1498843536.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/album_detail_delete.php on line 12
+[05-Aug-2022 17:51:42 Asia/Kolkata] PHP Warning:  unlink(../images/blog/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_blog.php on line 12
+[05-Aug-2022 18:15:16 Asia/Kolkata] PHP Warning:  Undefined property: BookUserProfile::$user_type in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/edit-registration.php on line 61
+[05-Aug-2022 18:15:16 Asia/Kolkata] PHP Warning:  Undefined property: BookUserProfile::$user_type in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/edit-registration.php on line 61
+[05-Aug-2022 18:15:16 Asia/Kolkata] PHP Warning:  Undefined property: BookUserProfile::$user_type in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/edit-registration.php on line 61
+[05-Aug-2022 18:15:16 Asia/Kolkata] PHP Warning:  Undefined property: BookUserProfile::$user_type in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/edit-registration.php on line 61
+[05-Aug-2022 19:40:42 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[05-Aug-2022 19:40:46 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[08-Aug-2022 10:33:40 Asia/Kolkata] PHP Warning:  unlink(../images/news_images/20220728120505-9993.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_newsroom_detail.php on line 12
+[08-Aug-2022 10:33:47 Asia/Kolkata] PHP Warning:  unlink(../images/news_images/20220728121327-5160.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_newsroom_detail.php on line 12
+[09-Aug-2022 11:39:35 Asia/Kolkata] PHP Warning:  unlink(../images/magazine_images/20220805164656-8671.pdf): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_magazine.php on line 17
+[10-Aug-2022 16:55:10 Asia/Kolkata] PHP Warning:  unlink(../images/DigitalContent/20220805174228-7983.png): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_content.php on line 12
+[17-Aug-2022 12:29:04 Asia/Kolkata] PHP Warning:  unlink(../images/Cms/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/cms_delete.php on line 12
+[22-Aug-2022 10:04:26 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/chapter_detail.php on line 4
+[22-Aug-2022 10:06:47 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/chapter_detail.php on line 4
+[22-Aug-2022 10:23:08 Asia/Kolkata] PHP Warning:  unlink(../images/bookmaster/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_book.php on line 12
+[22-Aug-2022 10:23:15 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/chapter_detail.php on line 4
+[22-Aug-2022 14:38:27 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[22-Aug-2022 14:38:31 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[22-Aug-2022 15:12:50 Asia/Kolkata] PHP Warning:  Undefined variable $news in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:12:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function picture_pdf() on null in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:12:54 Asia/Kolkata] PHP Warning:  Undefined variable $news in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:12:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function picture_pdf() on null in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:13:01 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/20220822150436-5857.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[22-Aug-2022 15:13:01 Asia/Kolkata] PHP Warning:  Undefined variable $news in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:13:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function picture_pdf() on null in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 14
+[22-Aug-2022 15:13:15 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/20220822150436-5857.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[22-Aug-2022 15:14:06 Asia/Kolkata] PHP Warning:  unlink(../images/series_images/20220822150815-1969.jpg): No such file or directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 12
+[22-Aug-2022 15:14:06 Asia/Kolkata] PHP Warning:  unlink(../images/sample_pdf/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 17
+[22-Aug-2022 16:37:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function picture_path() on bool in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_magazine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/delete_magazine.php on line 9
+[24-Aug-2022 12:01:31 Asia/Kolkata] PHP Warning:  unlink(../images/sample_pdf/): Is a directory in /home/fy9dktxencq2/public_html/madhubun.in/admin/ajax/series_delete.php on line 22
